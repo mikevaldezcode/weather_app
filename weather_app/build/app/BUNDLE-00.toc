@@ -1,0 +1,3 @@
+([('app',
+   '/Users/michaelvaldez/Documents/github/weather_app/weather_app/dist/app',
+   'EXECUTABLE')],)
